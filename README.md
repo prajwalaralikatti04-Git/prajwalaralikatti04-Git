@@ -1,5 +1,7 @@
 <p align="center">
-  <img src="profile.jpg" width="180" style="border-radius: 50%;" />
+  <img src="https://raw.githubusercontent.com/prajwalaralikatti04-Git/prajwalaralikatti04-Git/main/profile.jpg"
+       width="180"
+       style="border-radius: 50%;" />
 </p>
 
 <h1 align="center">🚀 Prajwal Aralikatti</h1>
@@ -19,101 +21,24 @@
 💼 **Java Full Stack Developer | Backend-Focused Engineer**  
 📍 **Belagavi, India**
 
-I specialize in building **scalable backend systems** and **end-to-end web applications** using **Java & Spring Boot**.  
-I strongly believe in **clean code, layered architecture, and performance-driven development**.
-
----
-
-## 🏆 Core Competencies
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Java-Expert-orange?style=flat-square&logo=java"/>
-  <img src="https://img.shields.io/badge/Spring%20Boot-Advanced-brightgreen?style=flat-square&logo=springboot"/>
-  <img src="https://img.shields.io/badge/REST%20APIs-Strong-blue?style=flat-square"/>
-  <img src="https://img.shields.io/badge/MySQL-Advanced-blue?style=flat-square&logo=mysql"/>
-  <img src="https://img.shields.io/badge/Git-GitHub-black?style=flat-square&logo=github"/>
-</p>
-
----
-
-## 🛠 Technology Stack
-
-### 🔹 Backend
-- Java
-- Spring Boot
-- JDBC, Hibernate
-- RESTful APIs
-
-### 🔹 Frontend
-- HTML5
-- CSS3
-- JavaScript
-
-### 🔹 Database
-- MySQL
-
-### 🔹 Tools
-- Git & GitHub
-- Eclipse
-- Postman
+I specialize in building **scalable backend systems** and **end-to-end web applications** using **Java & Spring Boot**.
 
 ---
 
 ## 🚀 Projects
 
 ### 🎓 Student Management System
-**Java | Spring Boot | MySQL**
-
-- Designed RESTful APIs with layered architecture  
-- Implemented full CRUD functionality  
-- Integrated MySQL with optimized queries  
-- Followed MVC & clean coding practices  
-
-📂 **Repository:** Student-Management-System
-
----
+- Java | Spring Boot | MySQL  
+- Full CRUD operations  
+- REST APIs & database integration  
 
 ### 🛒 E-Commerce Application *(In Progress)*
-**Java | Spring Boot | MySQL**
-
-- Product catalog & order processing  
-- Cart & checkout workflows  
-- Backend API design  
-- Scalable database structure  
-
-🚧 **Under active development**
+- Java | Spring Boot | MySQL  
 
 ---
 
-## 🏢 Industry Experience
+## 📫 Contact
+📧 prajwalaralikatti07@gmail.com  
+🔗 https://linkedin.com/in/prajwalaralikatti  
 
-### Full Stack Developer Intern  
-**Robowaves (Unit of Test Yantra Software Solutions)** – Bangalore
-
-- Developed backend modules using Spring Boot  
-- Created REST APIs consumed by frontend  
-- Wrote optimized SQL queries  
-- Worked in agile development environment  
-
----
-
-## 📈 GitHub Performance
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=prajwalaralikatti04-Git&show_icons=true&theme=radical&hide_border=true"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=prajwalaralikatti04-Git&theme=radical&hide_border=true"/>
-</p>
-
----
-
-## 🤝 Let’s Connect
-
-📧 **Email:** prajwalaralikatti07@gmail.com  
-🔗 **LinkedIn:** https://linkedin.com/in/prajwalaralikatti  
-
----
-
-⭐ *Open to Java Backend / Full Stack Developer opportunities*
+⭐ *Open to Java Full Stack / Backend Developer roles*
