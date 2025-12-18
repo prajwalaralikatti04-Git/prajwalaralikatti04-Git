@@ -4,9 +4,15 @@
   <h3>Java Full Stack Developer | Spring Boot | Backend Engineer</h3>
 
   <p>
-    <img src="https://komarev.com/ghpvc/?username=prajwalaralikatti04-Git&style=for-the-badge&color=0d1117" />
-    <img src="https://img.shields.io/github/followers/prajwalaralikatti04-Git?style=for-the-badge&color=0d1117" />
-    <img src="https://img.shields.io/badge/Open%20To%20Work-YES-success?style=for-the-badge" />
+    <a href="https://github.com/prajwalaralikatti04-Git">
+      <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
+    </a>
+    <a href="https://linkedin.com/in/prajwalaralikatti">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    </a>
+    <a href="mailto:prajwalaralikatti07@gmail.com">
+      <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+    </a>
   </p>
 </div>
 
@@ -27,7 +33,7 @@
 - Java & Spring Boot  
 - RESTful API Design  
 - MVC & Layered Architecture  
-- JDBC, Hibernate  
+- JDBC & Hibernate  
 - Exception Handling & Validation  
 
 ### Frontend & Database
@@ -47,16 +53,16 @@
 
 ## 🚀 Projects
 
-### Student Management System
+### <a href="https://github.com/prajwalaralikatti04-Git/Student-Management-System" target="_blank">Student Management System</a>
 **Tech:** Java | Spring Boot | MySQL  
 - REST-based CRUD operations  
 - Clean layered architecture  
 - Optimized MySQL queries  
 - Academic use-case  
 
-**Repository:** `Student-Management-System`
+---
 
-### E-Commerce Application (In Progress)
+### <a href="https://github.com/prajwalaralikatti04-Git/E-Commerce-Application" target="_blank">E-Commerce Application (In Progress)</a>
 **Tech:** Java | Spring Boot | MySQL  
 - Product catalog & cart system  
 - Order lifecycle management  
@@ -89,7 +95,16 @@
 ---
 
 ## 🤝 Connect with Me
-- 📧 Email: [prajwalaralikatti07@gmail.com](mailto:prajwalaralikatti07@gmail.com)  
-- 🔗 LinkedIn: [linkedin.com/in/prajwalaralikatti](https://linkedin.com/in/prajwalaralikatti)  
+<p align="center">
+  <a href="https://github.com/prajwalaralikatti04-Git">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <a href="https://linkedin.com/in/prajwalaralikatti">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:prajwalaralikatti07@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
 
 **🌟 Actively seeking Java Backend / Full Stack Developer opportunities**
