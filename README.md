@@ -53,7 +53,7 @@
 
 ## 🚀 Projects
 
-### <a href="https://github.com/prajwalaralikatti04-Git/Student-Management-System" target="_blank">Student Management System</a>
+### <a href="https://github.com/prajwalaralikatti04-Git/Prajwal/tree/88e075d48cc2f3de0d9c9b5aba4e3a68b21784e0/StudentsMangementSystem" target="_blank">Students Management System</a>
 **Tech:** Java | Spring Boot | MySQL  
 - REST-based CRUD operations  
 - Clean layered architecture  
