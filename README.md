@@ -34,7 +34,7 @@
 - RESTful API Design  
 - MVC & Layered Architecture  
 - JDBC & Hibernate  
-- Exception Handling & Validation  
+  
 
 ### Frontend & Database
 - HTML5, CSS3, JavaScript  
